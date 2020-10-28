@@ -1,22 +1,18 @@
 # space-invaders-gba
 A Gameboy Advance game written in C. Cn be player on any GBA emulator. Homework project for CS 2261.
 
-
-#readme.txt 
-
-
 HW4 by Nathan Davenport
 
 Welcome to my game! It is a recreation of the original Space Invaders, with original art created by me!
 
-#Objectives:
+# Objectives:
     Destroy all the aliens before they reach the bottom of the screen!
     Avoid the aliens shooting at you!
     The defense blocks can only take four hits before destroying. Be careful!
     However, player shots will not destroy the defense blocks.
     The difficulty increases after a certain point! Be careful!
 
-#Controls: 
+# Controls: 
     left/right to move
     a button to shoot
     start to pause and unpause game
